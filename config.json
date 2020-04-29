@@ -1,0 +1,13 @@
+{
+    "retreaver": {
+        "api_key": "8757ddfd-beed-40c0-a18f-fe726746560e",
+        "company_id": 32656,
+        "test": true,
+        "throttle": 5000
+    },
+    "ytel": {
+        "username": "d284ff82-a065-4f3b-b946-f5b85bada99f",
+        "password": "ccd567adafb7e4d9eb5edb2c95d31a82",
+        "test": true
+    }
+}

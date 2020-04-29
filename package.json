@@ -1,0 +1,19 @@
+{
+  "name": "revemation",
+  "version": "1.0.0",
+  "description": "Automates the acquisition of revenue and cost data",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jet": "^0.4.4"
+  },
+  "devDependencies": {
+    "jest": "^25.3.0"
+  },
+  "scripts": {
+    "test": "jest --verbose",
+    "test:debug": "node --inspect node_modules/.bin/jest --runInBand"
+  },
+  "author": "Cege Media",
+  "license": "ISC"
+}
